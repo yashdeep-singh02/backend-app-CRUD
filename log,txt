@@ -1,0 +1,9 @@
+1710415409585:::1: POST: /api/users
+1710419345434:::1: POST: /api/users
+1710419525139:::1: POST: /api/users
+1710419623912:::1: POST: /api/users
+1710421635135:::1: GET: /users
+1710421772488:::1: GET: /api/users
+1710422406158:::1: GET: /api/users/65f2eea713d862b588b7dd9c
+1710422588716:::1: PATCH: /api/users/65f2eea713d862b588b7dd9c
+1710422862589:::1: DELETE: /api/users/65f2eea713d862b588b7dd9c
